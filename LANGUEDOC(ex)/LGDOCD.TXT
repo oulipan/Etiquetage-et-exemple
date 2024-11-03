@@ -1,0 +1,7 @@
+500,7000,9,Aude,Aveyron,Bouches-du-Rhône,Gard,Haute-Garonne,Hérault,Lozère,Pyrénées Orientales,Tarn,
+5,840,6675,Pyrénées Orientales
+1185,5145,Aude
+3225,3975,Hérault
+5040,2610,Gard
+2985,720,Lozère
+

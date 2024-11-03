@@ -1,0 +1,7 @@
+1000,7000,8,Albi,Béziers,Carcassonne,Montpellier,Nîmes,Perpignan,Sète,Toulouse,,6,2140,6105,Perpignan
+700,4700,Carcassonne
+4300,4600,Sète
+3900,3570,Montpellier
+2500,4365,Béziers
+5040,2970,Nîmes
+6

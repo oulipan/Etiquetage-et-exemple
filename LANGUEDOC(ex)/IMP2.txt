@@ -1,0 +1,25 @@
+14,500,250,100,7000
+13,aient,er,ez,ait,er,ait,er,er,é,é,é,ait,er,aient,er,ez
+13
+4425,360,"aient"
+7185,420,"er"
+3135,705,"ez"
+1425,1080,"ait"
+3840,1035,"er"
+6480,1005,"ait"
+8100,1035,"er"
+2805,1665,"er"
+9390,1725,"é"
+2550,2055,"é"
+3585,2370,"é"
+6795,2325,"ait"
+8655,2280,"er"
+
+
+===================================================================================
+police,htr étiquette,largeur car,coord ht d'affich d'aide(X),coord G d'affich d'aide(Y)
+nb étiqu aide,[mot1,mot2,...]
+nb d'étiqu
+coor GCHE de mot1,coord HT de mot1,mot1/etc..
+D:\vbtxt\LANGUEDOC(ex)\IMP2.txt
+===================================================================================

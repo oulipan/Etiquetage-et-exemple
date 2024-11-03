@@ -1,0 +1,145 @@
+[Root]
+Most Recent Package=éiquetage.dep
+
+
+[Package|éiquetage.dep|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=F:\LANGUEDOC(ex)
+
+[Package|éiquetage.dep|Configure DAO ISAMs]
+Applicable=No
+
+[Package|éiquetage.dep|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|éiquetage.dep|Files Found]
+
+[Package|éiquetage.dep|Files Released]
+
+[Package|éiquetage.dep|Missing Dependency Information]
+D:\vbtxt\bio\AMOVIE.OCX=
+C:\Windows\Speech\Xvoice.dll=
+F:\LANGUEDOC(ex)\étiquetage.exe=
+F:\LANGUEDOC(ex)\LGDOC(ex).exe=
+F:\LANGUEDOC(ex)\pointeur2024.exe=
+
+[Package|éiquetage.dep|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\MCI32.OCX=
+C:\Windows\SysWOW64\MSCOMCTL.OCX=
+C:\Windows\SysWOW64\Comdlg32.ocx=
+
+[Package|éiquetage.dep|Files Added]
+F:\LANGUEDOC(ex)\étiquetage.exe=
+F:\LANGUEDOC(ex)\LGDOC(ex).exe=
+F:\LANGUEDOC(ex)\pointeur2024.exe=
+F:\LANGUEDOC(ex)\score_LGDOC.txt=
+F:\LANGUEDOC(ex)\AAAREP.TXT=
+F:\LANGUEDOC(ex)\er_é_ait_ez.txt=
+F:\LANGUEDOC(ex)\étiquetage.frm=
+F:\LANGUEDOC(ex)\étiquetage.frx=
+F:\LANGUEDOC(ex)\étiquetage.vbp=
+F:\LANGUEDOC(ex)\étiquetage.vbw=
+F:\LANGUEDOC(ex)\IMP2.JPG=
+F:\LANGUEDOC(ex)\IMP2.txt=
+F:\LANGUEDOC(ex)\lgdoc.JPG=
+F:\LANGUEDOC(ex)\LGDOC.TXT=
+F:\LANGUEDOC(ex)\lgdoc2.JPG=
+F:\LANGUEDOC(ex)\LGDOCD.TXT=
+
+[Package|éiquetage.dep|Files Removed]
+
+[Package|éiquetage.dep|Files In Project]
+F:\LANGUEDOC(ex)\pointeur_exo2024.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6FR.DLL=Yes
+C:\Windows\SysWOW64\Comdlg32.ocx=Yes
+C:\Windows\SysWOW64\CMDLGFR.DLL=Yes
+C:\Windows\SysWOW64\MSCOMCTL.OCX=Yes
+C:\Windows\SysWOW64\MSCMCFR.DLL=Yes
+C:\Windows\SysWOW64\Richtx32.ocx=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Windows\SysWOW64\RCHTXFR.DLL=Yes
+C:\Windows\Speech\Xvoice.dll=Yes
+C:\Windows\SysWOW64\MCI32.OCX=Yes
+C:\Windows\SysWOW64\MCIFR.DLL=Yes
+D:\vbtxt\bio\AMOVIE.OCX=Yes
+F:\LANGUEDOC(ex)\étiquetage.exe=Yes
+F:\LANGUEDOC(ex)\LGDOC(ex).exe=Yes
+F:\LANGUEDOC(ex)\pointeur2024.exe=Yes
+F:\LANGUEDOC(ex)\score_LGDOC.txt=Yes
+F:\LANGUEDOC(ex)\AAAREP.TXT=Yes
+F:\LANGUEDOC(ex)\er_é_ait_ez.txt=Yes
+F:\LANGUEDOC(ex)\étiquetage.frm=Yes
+F:\LANGUEDOC(ex)\étiquetage.frx=Yes
+F:\LANGUEDOC(ex)\étiquetage.vbp=Yes
+F:\LANGUEDOC(ex)\étiquetage.vbw=Yes
+F:\LANGUEDOC(ex)\IMP2.JPG=Yes
+F:\LANGUEDOC(ex)\IMP2.txt=Yes
+F:\LANGUEDOC(ex)\lgdoc.JPG=Yes
+F:\LANGUEDOC(ex)\LGDOC.TXT=Yes
+F:\LANGUEDOC(ex)\lgdoc2.JPG=Yes
+F:\LANGUEDOC(ex)\LGDOCD.TXT=Yes
+
+[Package|éiquetage.dep|Configure Registry Files]
+Applicable=
+
+[Package|éiquetage.dep|Configure Remote Servers]
+Applicable=
+
+[Package|éiquetage.dep|Install Locations]
+F:\LANGUEDOC(ex)\pointeur_exo2024.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6FR.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\Comdlg32.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\CMDLGFR.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCTL.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCMCFR.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\Richtx32.ocx=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\RCHTXFR.DLL=$(WinSysPath)
+C:\Windows\Speech\Xvoice.dll=$(WinSysPath)
+C:\Windows\SysWOW64\MCI32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MCIFR.DLL=$(WinSysPath)
+D:\vbtxt\bio\AMOVIE.OCX=$(WinSysPath)
+F:\LANGUEDOC(ex)\étiquetage.exe=$(AppPath)
+F:\LANGUEDOC(ex)\LGDOC(ex).exe=$(AppPath)
+F:\LANGUEDOC(ex)\pointeur2024.exe=$(AppPath)
+F:\LANGUEDOC(ex)\score_LGDOC.txt=$(AppPath)
+F:\LANGUEDOC(ex)\AAAREP.TXT=$(AppPath)
+F:\LANGUEDOC(ex)\er_é_ait_ez.txt=$(AppPath)
+F:\LANGUEDOC(ex)\étiquetage.frm=$(AppPath)
+F:\LANGUEDOC(ex)\étiquetage.frx=$(AppPath)
+F:\LANGUEDOC(ex)\étiquetage.vbp=$(AppPath)
+F:\LANGUEDOC(ex)\étiquetage.vbw=$(AppPath)
+F:\LANGUEDOC(ex)\IMP2.JPG=$(AppPath)
+F:\LANGUEDOC(ex)\IMP2.txt=$(AppPath)
+F:\LANGUEDOC(ex)\lgdoc.JPG=$(AppPath)
+F:\LANGUEDOC(ex)\LGDOC.TXT=$(AppPath)
+F:\LANGUEDOC(ex)\lgdoc2.JPG=$(AppPath)
+F:\LANGUEDOC(ex)\LGDOCD.TXT=$(AppPath)
+
+[Package|éiquetage.dep|Configure Shared Files]
+Applicable=
+
+[Package|éiquetage.dep|DepFile]
+DepCabFile=pointeur_exo2024.CAB
+DepCabRun=pointeur_exo2024.INF
+
+[Package|éiquetage.dep|Package]
+PackageFolder=F:\LANGUEDOC(ex)
+ProjectFolder=F:\LANGUEDOC(ex)
+ServerSideCab=
+File1=F:\LANGUEDOC(ex)\pointeur_exo2024.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

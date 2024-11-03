@@ -1,0 +1,69 @@
+[Version]
+Version=1.0.0.0
+
+[pointeur_exo2024.exe <000C>]
+Dest=$(AppPath)
+Date=03/11/2024
+Time=02:59
+Version=1.0.0.0
+CABFilename=pointeur_exo2024.CAB
+CABINFFile=pointeur_exo2024.INF
+Uses1=msvbvm60.dll
+Uses2=oleaut32.dll
+Uses3=olepro32.dll
+Uses4=asycfilt.dll
+Uses5=stdole2.tlb
+Uses6=COMCAT.DLL
+Uses7=VB6FR.DLL
+Uses8=Comdlg32.ocx
+Uses9=MSCOMCTL.OCX
+Uses10=Richtx32.ocx
+Uses11=Xvoice.dll
+Uses12=MCI32.OCX
+Uses13=AMOVIE.OCX
+Uses14=étiquetage.exe
+Uses15=LGDOC(ex).exe
+Uses16=pointeur2024.exe
+Uses17=score_LGDOC.txt
+Uses18=AAAREP.TXT
+Uses19=er_é_ait_ez.txt
+Uses20=étiquetage.frm
+Uses21=étiquetage.frx
+Uses22=étiquetage.vbp
+Uses23=étiquetage.vbw
+Uses24=IMP2.JPG
+Uses25=IMP2.txt
+Uses26=lgdoc.JPG
+Uses27=LGDOC.TXT
+Uses28=lgdoc2.JPG
+Uses29=LGDOCD.TXT
+
+[Xvoice.dll <000C>]
+Dest=$(WinSysPath)
+Date=12/01/1999
+Time=15:19
+Version=4.0.4.2512
+
+[AMOVIE.OCX <000C>]
+Dest=$(WinSysPath)
+Date=05/05/1999
+Time=23:22
+Version=5.1.70.327
+
+[étiquetage.exe <000C>]
+Dest=$(AppPath)
+Date=03/11/2024
+Time=02:18
+Version=1.0.0.0
+
+[LGDOC(ex).exe <000C>]
+Dest=$(AppPath)
+Date=02/11/2024
+Time=03:57
+Version=1.0.0.0
+
+[pointeur2024.exe <000C>]
+Dest=$(AppPath)
+Date=02/11/2024
+Time=05:05
+Version=1.0.0.0
